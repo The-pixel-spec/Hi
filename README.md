@@ -51,8 +51,8 @@
   </ul>
   <div class="contact">
     <p>Intresserad? Kontakta mig på:</p>
-    <p><strong>Email:</strong> din.email@example.com</p>
-    <p><strong>Telefon:</strong> 070-123 45 67</p>
+    <p><strong>Email:</strong> lindqvist.milo@icloud.com</p>
+    <p><strong>Telefon:</strong> 070-019 11 59</p>
   </div>
   <footer>
     &copy; 2025 [Ditt Namn]
