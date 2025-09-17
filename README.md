@@ -42,7 +42,7 @@
   </style>
 </head>
 <body>
-  <h1>Hjälp från [Ditt Namn]</h1>
+  <h1>Hjälp från [Milo]</h1>
   <h2>Tjänster jag erbjuder</h2>
   <ul>
     <li><strong>Hundpromenader:</strong> Jag går ut med din hund när du är upptagen.</li>
