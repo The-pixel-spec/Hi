@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Hjälp från [Ditt Namn]</title>
+  <title>Hjälp från [Milo]</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -42,7 +42,7 @@
   </style>
 </head>
 <body>
-  <h1>Hjälp från [Milo]</h1>
+  <h1>Hjälp från Milo</h1>
   <h2>Tjänster jag erbjuder</h2>
   <ul>
     <li><strong>Hundpromenader:</strong> Jag går ut med din hund när du är upptagen.</li>
